@@ -1,0 +1,9 @@
+{
+  "modules": { 
+    "Chatterbots-IA-3.16": {
+      "description": "Agent de conversation pour communiquer avec Sarah",
+      "version": "3.16",
+	  "Auteur": "Avatar Rousseau (Dark Best)"
+    }
+  }
+}
