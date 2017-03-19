@@ -5,7 +5,7 @@ Chatterbots-IA-3.16
 
 Fonctionnement et partit.
 
-<item>Bonjour<tag>out.action._attributes.tts = "Bonjour monsieur, comment aller vous."</tag></item>
+#<item>Bonjour<tag>out.action._attributes.tts = "Bonjour monsieur, comment aller vous."</tag></item>
 
 On pose une question a sarah donc on applique cette audre <item>Bonjour<tag>out.action._attributes.tts =
 
